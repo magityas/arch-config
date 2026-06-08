@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=easyeffects --gapplication-service
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Easy Effects Service

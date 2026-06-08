@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+#Exec=sh -c "sleep 5 && pactl set-default-sink easyeffects_sink"
+Exec=sh -c "sleep 3 && pactl set-default-sink alsa_output.pci-0000_04_00.6.analog-stereo"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Force EasyEffects Sink

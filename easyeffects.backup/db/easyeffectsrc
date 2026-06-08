@@ -1,0 +1,22 @@
+[EffectsPipelines]
+bypass=true
+
+[StreamInputs]
+blocklist=ZOOM VoiceEngine
+inputDevice=bluez_input.A4:C1:39:45:F1:70
+listenToMic=true
+plugins=rnnoise#0,compressor#0,equalizer#0,deepfilternet#1,deesser#0,limiter#0
+visiblePage=pluginsPage
+visiblePlugin=rnnoise#0
+
+[StreamOutputs]
+outputDevice=bluez_output.A4_C1_39_45_F1_70.1
+plugins=stereo_tools#0,equalizer#0,deepfilternet#0,compressor#0,bass_enhancer#0,deesser#0,limiter#0,reverb#0
+visiblePage=pluginsPage
+visiblePlugin=deesser#0
+
+[Window]
+autostartOnLogin=true
+height=1002
+visiblePage=inputPage
+width=1920

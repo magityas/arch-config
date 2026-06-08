@@ -1,0 +1,44 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "display": {
+    "key": { "width": 18 },
+    "size": { "binaryPrefix": "jedec" },
+    "separator": "  "
+  },
+  "logo": {
+    "type": "kitty-direct",
+    "source": "/home/kudo/.config/fastfetch/foto/shinci.jpeg",
+    "width": 20
+  },
+  "modules": [
+    "break",
+
+    { "type": "os", "key": "OS", "keyColor": "yellow", "format": "{name}" },
+    { "type": "kernel", "key": "Kernel", "keyColor": "green" },
+    { "type": "packages", "key": "Packages", "keyColor": "cyan" },
+    { "type": "shell", "key": "Shell", "keyColor": "blue", "format": "{pretty-name}" },
+    { "type": "de", "key": "Environment", "keyColor": "magenta", "format": "{pretty-name}" },
+    { "type": "uptime", "key": "Uptime", "keyColor": "green" },
+
+    { "type": "cpu", "key": "CPU", "keyColor": "red", "format": "{name}" },
+    { "type": "gpu", "key": "GPU", "keyColor": "blue" },
+    { "type": "memory", "key": "Memory", "keyColor": "yellow", "format": "{used} / {total}" },
+    { "type": "disk", "key": "Disk", "keyColor": "cyan", "folders": ["/"], "format": "{used} / {total}" },
+    { "type": "display", "key": "Display", "keyColor": "cyan" },
+    { "type": "terminal", "key": "Terminal", "keyColor": "green" },
+    { "type": "battery", "key": "Battery", "keyColor": "yellow" },
+
+    "break",
+
+    { "type": "title", "key": "User", "keyColor": "magenta" },
+    { "type": "localip", "key": "Local IP", "keyColor": "cyan" },
+    { "type": "publicip", "key": "Public IP", "keyColor": "yellow" },
+
+    "break",
+
+    {
+      "type": "custom",
+      "format": "\u001b[33m󰮯 \u001b[32m󰊠 \u001b[34m󰊠 \u001b[31m󰊠 \u001b[36m󰊠 \u001b[32m󰊠 \u001b[34m󰊠 \u001b[31m󰊠 \u001b[36m󰊠 \u001b[32m󰊠 \u001b[34m󰊠 \u001b[31m󰊠 \u001b[36m󰊠 \u001b[35m󰊠"
+    }
+  ]
+}

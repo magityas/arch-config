@@ -1,0 +1,13 @@
+[
+  {
+    "context": "Editor",
+    "bindings": {
+      "f5": [
+        "task::Spawn",
+        {
+          "task_name": "Run Code Interactively",
+        },
+      ],
+    },
+  },
+]
