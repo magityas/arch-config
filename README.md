@@ -45,7 +45,4 @@ This repository contains my personal Arch Linux setup. It is optimized for my wo
 
 Feel free to use it as a reference or adapt it for your own setup.
 
-## Warning
-
-Some files (like `.zsh_history`) may contain sensitive or personal command history. It is recommended to exclude them using `.gitignore`.
 
