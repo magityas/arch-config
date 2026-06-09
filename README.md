@@ -22,7 +22,6 @@ My personal Arch Linux configuration and desktop setup for Arch Linux.
 ├── .zprofile
 ├── .zshenv
 ├── .zshrc
-├── .zsh_history
 └── README.md
 ```
 
