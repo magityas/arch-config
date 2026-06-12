@@ -1,6 +1,6 @@
 [
   {
-    "context": "Editor",
+    "context": "Workspace",
     "bindings": {
       "f5": [
         "task::Spawn",
@@ -11,3 +11,4 @@
     },
   },
 ]
+
