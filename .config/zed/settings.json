@@ -65,6 +65,6 @@
   // --- FONT TERMINAL ---
   "terminal": {
     "font_family": "Inconsolata Nerd Font Mono",
-    "font_size": 20,
+    "font_size": 25,
   },
 }
