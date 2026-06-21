@@ -1,0 +1,33 @@
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/winbox-mikrotik-icon.png
+File10[$e]=$HOME/Pictures/Screenshots/Screenshot_20260614_212949-2.png
+File2[$e]=$HOME/Downloads/5cbba74b40ec0c0ce77b3db3ec1a5e05 (1).jpg
+File3[$e]=$HOME/Downloads/2a3e70cb584c7afc100f92c95fdfe9f2.jpg
+File4[$e]=$HOME/Downloads/1781596195285.png
+File5[$e]=$HOME/Downloads/1781601815354.png
+File6[$e]=$HOME/Downloads/763712049355551005.jpg.jpeg
+File7[$e]=$HOME/Pictures/Screenshots/Screenshot_20260614_213043.png
+File8[$e]=$HOME/Pictures/Screenshots/Screenshot_20260614_212950.png
+File9[$e]=$HOME/Pictures/Screenshots/Screenshot_20260614_212949.png
+Name1[$e]=winbox-mikrotik-icon.png
+Name10[$e]=Screenshot_20260614_212949-2.png
+Name2[$e]=5cbba74b40ec0c0ce77b3db3ec1a5e05 (1).jpg
+Name3[$e]=2a3e70cb584c7afc100f92c95fdfe9f2.jpg
+Name4[$e]=1781596195285.png
+Name5[$e]=1781601815354.png
+Name6[$e]=763712049355551005.jpg.jpeg
+Name7[$e]=Screenshot_20260614_213043.png
+Name8[$e]=Screenshot_20260614_212950.png
+Name9[$e]=Screenshot_20260614_212949.png
+
+[SideBar]
+InformationSplitterSizes=220,255
+IsVisible ViewMode=true
+SideBarSplitterSizes=227,1692

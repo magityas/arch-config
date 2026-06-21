@@ -1,0 +1,15 @@
+[General]
+autoSaveImage=true
+clipboardGroup=PostScreenshotCopyImage
+closeAfterOcr=true
+ocrLanguages=afr
+
+[GuiConfig]
+quitAfterSaveCopyExport=true
+
+[ImageSave]
+lastImageSaveLocation=file:///home/kudo/Pictures/Screenshots/Screenshot_20260621_084424.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts
